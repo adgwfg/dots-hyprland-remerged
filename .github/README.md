@@ -17,6 +17,11 @@
     <h3></h3>
 </div>
 
+----
+# A fork of end4 dots that attempts to merge everything that end4 has not or not wanting to implement
+
+----
+
 > [!WARNING]  
 > Hyprland 0.55 update:
 > If your distro has not shipped Hyprland 0.55 and/or you're not ready for it, you should switch to the Pre-Hyprland Luaification release (or not update yet, if you're going to do that). See the wiki for more info: [Install](https://ii.clsty.link/en/ii-qs/01setup/#automated-installation) | [Update](https://ii.clsty.link/en/ii-qs/01setup/#updating)

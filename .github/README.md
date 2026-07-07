@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>【 end_4's Hyprland dotfiles 】</h1>
+    <h1>【 end_4's Hyprland dotfiles-remerged 】</h1>
     <h3></h3>
 </div>
 
@@ -48,8 +48,7 @@
   <summary>Installation</summary>
 
    - **IMPORTANT: Hyprland 0.55 Update**: If your distro has not shipped Hyprland 0.55 and/or you're not ready for it, you should switch to the Pre-Hyprland Luaification release. See [the wiki](https://ii.clsty.link/en/ii-qs/01setup/) for more info
-   - Just run `bash <(curl -s https://ii.clsty.link/get)`
-     - Or, clone this repo and run `./setup install`
+     - clone this repo and run `./setup install`
      - See [the wiki](https://ii.clsty.link/en/ii-qs/01setup/) for more details
    - **Keybinds**: Should be somewhat familiar to Windows or GNOME users. Important ones:
      - `Super`+`/` = keybind list

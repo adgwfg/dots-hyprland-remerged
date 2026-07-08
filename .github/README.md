@@ -19,6 +19,8 @@
 
 ----
 # A fork of end4 dots that attempts to merge everything that end4 has not or not wanting to implement
+
+- note: whe do not accept ai generated pr requests nor assisted
 ----
 
 > [!WARNING]  

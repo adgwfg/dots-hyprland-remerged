@@ -20,7 +20,14 @@
 ----
 # A fork of end4 dots that attempts to merge everything that end4 has not or not wanting to implement
 
+###########################################################
+# PLEASE USE THIS FORK WITH CAUTION SINCE STUFF MAY BREAK #
+###########################################################
 - note: whe do not accept ai generated pr requests nor assisted
+
+- currently added:
+- wifi rescan button
+- 
 ----
 
 > [!WARNING]  

@@ -23,7 +23,8 @@
 ###########################################################
 # PLEASE USE THIS FORK WITH CAUTION SINCE STUFF MAY BREAK #
 ###########################################################
-- note: whe do not accept ai generated pr requests nor assisted
+-- note: whe do not accept ai generated pr requests nor assisted
+-- note: extended calendar pr request will be eventually merged once it is up to date
 
 - currently added:
 - wifi rescan button
